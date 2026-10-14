@@ -1,0 +1,6 @@
+@ASP.NET_Core_Architecture_Marwa_Wageeh_Farraj__HostAddress = http://localhost:5069
+
+GET {{ASP.NET_Core_Architecture_Marwa_Wageeh_Farraj__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
